@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "omZt6Ysyp3K8+EWNpYIduiCBd+1by9D0WAOtE0xEM7oovlD2J1ZGfu5LeQeS38EZ4lIasboaeFDABBRWnCapXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student-36\\OneDrive\\Desktop\\Projects\\TheZoo\\TheZoo\\TheZoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student-36\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Student-36\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Student-36\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Student-36\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
