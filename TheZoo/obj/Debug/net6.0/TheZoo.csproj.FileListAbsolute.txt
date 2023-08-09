@@ -1,0 +1,15 @@
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\bin\Debug\net6.0\TheZoo.exe
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\bin\Debug\net6.0\TheZoo.deps.json
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\bin\Debug\net6.0\TheZoo.runtimeconfig.json
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\bin\Debug\net6.0\TheZoo.dll
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\bin\Debug\net6.0\TheZoo.pdb
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\TheZoo.csproj.AssemblyReference.cache
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\TheZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\TheZoo.AssemblyInfoInputs.cache
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\TheZoo.AssemblyInfo.cs
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\TheZoo.csproj.CoreCompileInputs.cache
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\TheZoo.dll
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\refint\TheZoo.dll
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\TheZoo.pdb
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\TheZoo.genruntimeconfig.cache
+C:\Users\Student-36\OneDrive\Desktop\Projects\TheZoo\TheZoo\obj\Debug\net6.0\ref\TheZoo.dll

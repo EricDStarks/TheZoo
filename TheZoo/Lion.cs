@@ -9,5 +9,6 @@ namespace TheZoo
     internal class Lion: Feline, IWalk
     {
         public int legs { get; set; }
+        public string stripesColor { get; set; }
     }
 }

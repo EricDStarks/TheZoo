@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TheZoo
 {
-    public abstract class Reptile
+    public abstract class Reptile: Animal
     {
         public int length;
         public string skinType;
