@@ -16,6 +16,7 @@ namespace TheZoo
 
         public Jaguar(string spotColor, int teethAmount, string name) //A public constructor for the Jaguar class that takes in 3 parameters
         {
+            //Assigns value to spotColor and teethAmount to color and teeth parameters. This refers to the name property and assign value to the name parameter.
             color = spotColor;
             teeth = teethAmount;
             this.name = name;
